@@ -5,7 +5,6 @@ description = "Template for flask projects"
 authors = ["Francisco <vieirafrancisco.dev@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "flask_template"}]
 
 [tool.poetry.dependencies]
 python = "^3.12"
